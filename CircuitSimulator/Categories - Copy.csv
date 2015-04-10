@@ -1,0 +1,27 @@
+And - 2,Logic Gates,2 Input And Gate
+And - 3,Logic Gates,3 Input And Gate
+And - 4,Logic Gates,4 Input And Gate
+Or - 2,Logic Gates,2 Input Or Gate
+Or - 3,Logic Gates,3 Input Or Gate
+Or - 4,Logic Gates,4 Input Or Gate
+Not,Logic Gates,Inverter
+XOR - 2,Logic Gates,2 Input Exlusive OR Gate
+XOR - 3,Logic Gates,3 Input Exlusive OR Gate
+XOR - 4,Logic Gates,4 Input Exlusive OR Gate
+XNOR - 2,Logic Gates,2 Input Exlusive XNOR Gate
+XNOR - 3,Logic Gates,3 Input Exlusive XNOR Gate
+XNOR - 4,Logic Gates,4 Input Exlusive XNOR Gate
+NAND - 2,Logic Gates,2 Input NAND Gate
+NAND - 3,Logic Gates,3 Input NAND Gate
+NAND - 4,Logic Gates,4 Input NAND Gate
+NOR - 2,Logic Gates,2 Input NOR Gate
+NOR - 3,Logic Gates,3 Input NOR Gate
+NOR - 4,Logic Gates,4 Input NOR Gate
+Clock,Voltage Source,Pulsating DC Voltage Supply
+Logic Toggle,Debugging Tools,Logic State Source (Momentary Action)
+Logic State,Debugging Tools,Logic State Source (Latched Action)
+Logic Probe,Debugging Tools,Logic State Indicator
+Push Button,Switches,SPST Push Button
+Vsource,Voltage Source,DC Voltage Source
+Counter,Digital ICs,Digital Ping Pong Ding Dong Counter Shounter
+Display,Digital ICs,7 Segmented Digital Display
