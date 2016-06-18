@@ -14,4 +14,4 @@ Component Picker:
 </p>
 
 #### Youtube
-[![Digital Logic Circuit Simulator on Youtube](https://img.youtube.com/vi/GT8CUkUiijE/0.jpg)](https://www.youtube.com/watch?v=GT8CUkUiijE)
+[![Digital Logic Circuit Simulator on Youtube](https://img.youtube.com/vi/SiQKKMb5u9s/0.jpg)](https://www.youtube.com/watch?v=SiQKKMb5u9s)
